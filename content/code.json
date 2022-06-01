@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width:576px)\n{.header__logo\n  {max-height:60px;\n   max-width:100px\n     }\n}\n\n\n",
+  "css": "@media(min-width:576px)\n{.header__logo\n  {max-height:60px;\n   max-width:100px\n     }\n}\n.top-bar a.top-bar__countdown {\n  color: #ffffff !important;\n}\n.top-bar__countdown {\n  font-weight: bold !important;\n}\n",
   "html_head": "",
   "html_body": ""
 }
