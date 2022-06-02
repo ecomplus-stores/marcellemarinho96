@@ -1,6 +1,6 @@
 {
-  "title": "Loja em manutenção",
-  "body": "*Voltamos em breve*",
-  "active": false,
-  "unlock_key": ""
+  "title": "Em breve!",
+  "body": "## **Coming Soon**... Um novo conceito para vocês LOJISTAS!",
+  "active": true,
+  "unlock_key": "0"
 }
