@@ -16,11 +16,17 @@
           "mobile_img": "/img/uploads/whatsapp-image-2022-06-01-at-22.39.41.jpeg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/whatsapp-image-2022-06-01-at-22.37.11-2-.jpeg",
+          "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/whatsapp-image-2022-06-01-at-22.37.41-1-.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2022-06-01-at-22.37.11.jpeg",
+          "mobile_img": "/img/uploads/whatsapp-image-2022-06-01-at-22.37.41.jpeg"
         }
       ]
     },
