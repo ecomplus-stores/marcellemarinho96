@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.29a7ba34ec2c949d13bfb39eb09f1724.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.03aa083e9b73773e7aab6dbb90384dec.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f67149c58c0911ba00e38dd6020345ac.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a4253d37e86b9df854c326c33134bbde.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ed736d331c3b3588c619942a4345a6cf.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Marbelle Closet",
+  "short_name": "Marbelle Closet",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Marbelle Closet",
+  "background_color": "#ffffff",
+  "theme_color": "#fc5ddc"
+}
